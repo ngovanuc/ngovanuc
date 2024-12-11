@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/<username>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrohere" height="30" width="40" /></a>
 <a href="https://twitter.com/<username>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Divyansh ojha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ucngo0802/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Divyansh ojha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ngovanuc.1508/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Divyansh ojha" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ucngo0802/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Divyansh ojha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/<username>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Divyansh ojha" height="30" width="40" /></a>
 <a href="https://devpost.com/<username>" target="blank"><img align="center" src="https://simpleicons.org/icons/devpost.svg" alt="Divyansh ojha" height="30" width="40" /></a>
