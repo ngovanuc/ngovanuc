@@ -1,6 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Ngô+Văn+Úc!;" />
 
-
 <p align="center">
 <a href="https://www.linkedin.com/<username>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrohere" height="30" width="40" /></a>
 <a href="https://twitter.com/<username>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Divyansh ojha" height="30" width="40" /></a>
@@ -12,41 +11,13 @@
 <a href = "mailto: ngovanuc.1508@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="center">Researcher and AI Engineer</h3>
-<img align="right" alt="coding" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 Researcher at IAD, Dong A University.
-- 🤖 AI Engineer
-- 📫 Contact me via: ngovanuc.1508@gmail.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
-
-
-<h2>⭐ | Github Stats </h2>
+⭐ | Github Stats
 
 <div align="center">
 <a href="https://github.com/ngovanuc">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ngovanuc&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngovanuc&layout=compact&langs_count=7&theme=default"/></a>
 </div>
-
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
